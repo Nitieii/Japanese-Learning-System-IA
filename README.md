@@ -1,1 +1,1 @@
-# Japanese-Learning-System-IA
+# JapaneseSystemIA
